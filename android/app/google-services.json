@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335205339234",
+    "project_id": "watadrop-50509",
+    "storage_bucket": "watadrop-50509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335205339234:android:9e2d3ade58da29e203813b",
+        "android_client_info": {
+          "package_name": "com.philoxenic.watadrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335205339234-326iur1m1anpoqnprnbfj9ig4dbh9atr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.philoxenic.watadrop",
+            "certificate_hash": "3df9aecd1c9d726ec41a4cafe1134930de244b7f"
+          }
+        },
+        {
+          "client_id": "335205339234-6ud12h0ici0drpf2c0mp85pmjlgfbavj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLEUJanM8cM_J0IDyNlXNbwXRArBb81g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335205339234-6ud12h0ici0drpf2c0mp85pmjlgfbavj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
